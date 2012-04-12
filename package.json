@@ -1,0 +1,15 @@
+{
+  "name": "@drupal-ckeditor-libraries-group/indentlist",
+  "description": "CKEditor 4 indentlist plugin",
+  "keywords": ["ckeditor", "plugin", "indentlist"],
+  "homepage": "https://ckeditor.com/cke4/addon/indentlist",
+  "bugs": {
+    "url": "https://github.com/ckeditor/ckeditor4/issues"
+  },
+  "license" : "(GPL-2.0-or-later OR LGPL-2.1-or-later OR MPL-1.1)",
+  "repository": {
+		"type": "git",
+    "url": "https://github.com/ckeditor/ckeditor4.git",
+    "directory": "plugins/indentlist"
+	}
+}
